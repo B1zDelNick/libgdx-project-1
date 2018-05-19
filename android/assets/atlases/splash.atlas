@@ -1,0 +1,55 @@
+
+splash.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 607, 329
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 499, 139
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 2, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 950, 445
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+gaming
+  rotate: false
+  xy: 2, 102
+  size: 495, 137
+  orig: 495, 137
+  offset: 0, 0
+  index: -1
+preloader
+  rotate: false
+  xy: 607, 423
+  size: 341, 88
+  orig: 341, 88
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 241
+  size: 603, 270
+  orig: 603, 270
+  offset: 0, 0
+  index: -1
